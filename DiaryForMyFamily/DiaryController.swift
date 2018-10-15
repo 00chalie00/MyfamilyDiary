@@ -6,4 +6,9 @@
 //  Copyright © 2018년 formathead. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class DiaryController: UIViewController
+{
+    
+}

@@ -6,4 +6,16 @@
 //  Copyright © 2018년 formathead. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class RegiViewController: UIViewController
+{
+    
+    
+    
+    
+    @IBAction func gotoMain(_ sender: UIBarButtonItem)
+    {
+        dismiss(animated: true, completion: nil)
+    }
+}
